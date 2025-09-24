@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nicolás Ernesto Navarro Temoche
+# 👋 Hola, soy Nicolás Navarro 
 
 📍 Vivo en Surquillo, Lima – Perú  
 🎯 Apasionado por la gestión humana, el clima laboral y la transformación digital en entornos organizativos.  
