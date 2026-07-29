@@ -5,16 +5,15 @@
 Me interesa cómo la tecnología puede potenciar la experiencia del empleado, optimizar procesos y generar decisiones más inteligentes.  
 
 ## 💼 ¿Qué hago?
-- Analizo organizaciones desde una mirada estratégica y humana
-- Traduzco teoría en acciones prácticas para mejorar el ambiente laboral
-- Analizo procesos organizativos y propongo automatizaciones que aumentan la eficiencia
-- Aplico herramientas TI para optimizar el clima laboral y la colaboración interna
-
+- Construyo herramientas Excel/Google Sheets que optimizan operaciones
+- Automatizo procesos manuales con VBA, Apps Script y Python
+- Diseño dashboards y sistemas de control para análisis de datos
+- Aplico metodologías de gestión de proyectos y arquitectura empresarial
 ## 🧠 Habilidades destacadas
-- Análisis de datos aplicados a decisiones estratégicas en gestión humana e inversiones
-- Síntesis de información técnica en lenguaje accesible
-- Diagnóstico organizacional con apoyo de herramientas digitales
-- Automatización de procesos operativos y mejora continua con enfoque en eficiencia
+- Excel avanzado: Dashboards dinámicos, fórmulas complejas, automatización VBA
+- Google Sheets: Apps Script, Looker Studio, integración de datos
+- Data & Analytics: Python, SQL, Power BI, análisis estadístico
+- Herramientas: Notion, GitHub, Google Workspace
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
