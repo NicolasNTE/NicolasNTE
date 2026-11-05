@@ -17,6 +17,7 @@ Me interesa la intersección entre **gestión del talento, clima laboral y trans
 ## Qué hago
 
 - Construyo herramientas en Excel y Google Sheets que optimizan operaciones.
+- Uso asistentes de IA (Claude Code y OpenAI Codex) para automatizar tareas, prototipar y acelerar el desarrollo, revisando y validando el código que generan.
 - Automatizo procesos con VBA, Google Apps Script y Python.
 - Diseño dashboards y sistemas de control para análisis de datos.
 - Desarrollo APIs REST y documento arquitecturas de aplicaciones web.
@@ -50,7 +51,6 @@ Me interesa la intersección entre **gestión del talento, clima laboral y trans
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
 </p>
 
 **Herramientas y redes**
@@ -61,6 +61,13 @@ Me interesa la intersección entre **gestión del talento, clima laboral y trans
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+**IA y automatización**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </p>
 
 ## Proyectos destacados
@@ -78,4 +85,4 @@ Me interesa la intersección entre **gestión del talento, clima laboral y trans
 Estoy abierto a proyectos, prácticas y colaboraciones que generen impacto en el entorno laboral, la analítica de datos o el mundo de las inversiones. Si compartes esa visión, conversemos.
 
 **Contacto:** [niconavarrotem@gmail.com](mailto:niconavarrotem@gmail.com)
-<!-- Agrega aquí tu LinkedIn: **LinkedIn:** [Nicolás Navarro](www.linkedin.com/in/nicolás-navarro-098165330) -->
+**LinkedIn:** [Nicolás Navarro](www.linkedin.com/in/nicolás-navarro-098165330)
